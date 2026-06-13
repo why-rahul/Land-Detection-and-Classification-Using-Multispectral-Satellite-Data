@@ -6,7 +6,7 @@ This project performs land classification using multispectral satellite images f
 
 ## Dataset
 
-- Dataset: EuroSAT Multispectral
+- Dataset: EuroSAT multispectral data set: https://zenodo.org/records/7711810.ZAm3k-zMKEA
 - Number of Classes: 10
 - Number of Bands: 13
 - Image Size: 64 × 64 pixels
